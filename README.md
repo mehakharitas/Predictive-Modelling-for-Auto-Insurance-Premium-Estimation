@@ -1,4 +1,4 @@
-# Predictive-Modelling-for-Auto-Insurance-Premium-Estimation
+# Predictive Modelling for Auto Insurance Premium Estimation
 This project presents a machine learning pipeline to accurately estimate auto insurance premiums based on policyholder, vehicle, and regional attributes. Using a real-world dataset of over 400,000 observations, we compare multiple regression models to identify key pricing drivers and develop a robust predictive tool for insurers.
 
 # Project Objectives
